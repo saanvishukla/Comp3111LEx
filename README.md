@@ -1,1 +1,1 @@
-this is the screenshot ![screenshot.png]
+this is the screenshot ![this is the picture](screenshot.png)
